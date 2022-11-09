@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Requester wsactic  Nombre Javascript.jpg_ddea25</name>
+   <tag></tag>
+   <elementGuidId>e6e5b86d-243f-44d0-94e0-43f0653047fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/ul/li[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d824dce9-f4bb-461d-81ff-63393ec0b051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-list-item ant-list-item-no-flex list</value>
+      <webElementGuid>a3447b27-c8bd-4df4-9ae7-0eab3d012954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Requester: wsactic | Nombre: Javascript.jpg | Descripción: </value>
+      <webElementGuid>b02f6f94-6dc2-4bbf-aa36-24f269c137af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;general&quot;]/div[@class=&quot;page-body cyan&quot;]/div[@class=&quot;container con-download red&quot;]/div[@class=&quot;contents&quot;]/div[@class=&quot;ant-list ant-list-split ant-list-bordered deny-list-header&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/ul[@class=&quot;ant-list-items&quot;]/li[@class=&quot;ant-list-item ant-list-item-no-flex list&quot;]</value>
+      <webElementGuid>70417381-e74b-4e66-b12f-a211d471c3e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/ul/li[7]</value>
+      <webElementGuid>cf399ca3-e88e-4d33-82a4-1446774f633e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/ul/li[7]</value>
+      <webElementGuid>bd79d2b2-cf7c-4d37-9942-b51aee4e0dbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Requester: wsactic | Nombre: Javascript.jpg | Descripción: ' or . = 'Requester: wsactic | Nombre: Javascript.jpg | Descripción: ')]</value>
+      <webElementGuid>e1b9d21b-74fb-48f8-bdd8-a68b83bde5c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

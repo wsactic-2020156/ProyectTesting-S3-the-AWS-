@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Directorio_4Screenshot_20220720-192107_I_730136</name>
+   <tag></tag>
+   <elementGuidId>e4c224e6-e390-4c60-b8b2-9dc14eb99553</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-list-item.list</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>f0d8e71b-1f92-43ff-b24b-d66ab32afae8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-list-item list</value>
+      <webElementGuid>609ddc70-ad62-4b3a-9ff4-899e2df38f36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Directorio_4/Screenshot_20220720-192107_Instagram.jpg</value>
+      <webElementGuid>185c4b7c-b20d-48b7-91f5-af626d8f7d7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;general&quot;]/div[@class=&quot;page-body cyan&quot;]/div[@class=&quot;container con-download orange&quot;]/div[@class=&quot;contents&quot;]/div[@class=&quot;ant-list ant-list-split ant-list-bordered header-list&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/ul[@class=&quot;ant-list-items&quot;]/li[@class=&quot;ant-list-item list&quot;]</value>
+      <webElementGuid>d182b3bb-6c94-4536-9775-fa6523062d47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/ul/li</value>
+      <webElementGuid>2fd6dcbc-afbc-4a24-912b-0685c3a26a50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archivos del directorio:'])[1]/following::li[1]</value>
+      <webElementGuid>ce8af916-1c2c-4067-ae73-65efa047a21c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archivos'])[1]/following::li[1]</value>
+      <webElementGuid>cd297348-1834-4cd1-9482-080fb30c4ecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Directorio_4/kohaku-isekai-wa-smartphone.jpg'])[1]/preceding::li[1]</value>
+      <webElementGuid>cb1f4976-c806-48be-862c-1ef748520399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solicitar Subir Archivos'])[1]/preceding::li[2]</value>
+      <webElementGuid>210929cc-f441-441f-bc17-0b94801a9b93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Directorio_4/Screenshot_20220720-192107_Instagram.jpg']/parent::*</value>
+      <webElementGuid>d7d6789d-9a22-418e-92e0-d4196ac07f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>bdcb6841-6755-46aa-a725-e1dae2324404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Directorio_4/Screenshot_20220720-192107_Instagram.jpg' or . = 'Directorio_4/Screenshot_20220720-192107_Instagram.jpg')]</value>
+      <webElementGuid>fc6586af-6341-4b9b-ba9c-1e97bbea3226</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

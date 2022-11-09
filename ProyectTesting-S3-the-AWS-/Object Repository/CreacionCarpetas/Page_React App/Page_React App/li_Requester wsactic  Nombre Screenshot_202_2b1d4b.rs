@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Requester wsactic  Nombre Screenshot_202_2b1d4b</name>
+   <tag></tag>
+   <elementGuidId>ef2e3bd0-324f-4d85-9909-2ce28e2aa669</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/ul/li[12]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>35ebbcaf-1734-4459-988d-e290162be55d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-list-item ant-list-item-no-flex list</value>
+      <webElementGuid>a45fe38f-1f34-4144-b0ab-3fd843be1f42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Requester: wsactic | Nombre: Screenshot_20220720-192107_Instagram.jpg | Descripción: Porta CD</value>
+      <webElementGuid>9678bb8d-1cd1-45b7-aaf0-2494234a0528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;general&quot;]/div[@class=&quot;page-body cyan&quot;]/div[@class=&quot;container con-select blue&quot;]/div[@class=&quot;contents&quot;]/div[@class=&quot;ant-list ant-list-split ant-list-bordered approved-list-header&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/ul[@class=&quot;ant-list-items&quot;]/li[@class=&quot;ant-list-item ant-list-item-no-flex list&quot;]</value>
+      <webElementGuid>c236a2bd-70b0-4c48-b930-779cc5abf100</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/ul/li[12]</value>
+      <webElementGuid>76592ce7-8c13-4709-aa55-55ae5c274544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[12]</value>
+      <webElementGuid>b1113d74-13a0-46d4-b899-824203dfb66d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Requester: wsactic | Nombre: Screenshot_20220720-192107_Instagram.jpg | Descripción: Porta CD' or . = 'Requester: wsactic | Nombre: Screenshot_20220720-192107_Instagram.jpg | Descripción: Porta CD')]</value>
+      <webElementGuid>acb59518-44c8-4bac-aa4a-3587e313e44c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

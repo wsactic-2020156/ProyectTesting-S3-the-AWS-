@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Requester jsolis  Nombre Jira-AlburezLog_113409</name>
+   <tag></tag>
+   <elementGuidId>95aa1d12-03ab-4760-928a-025ec69d45eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/ul/li[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>618a4bd0-c7f4-491b-a381-5b25bb8cc6c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-list-item ant-list-item-no-flex list</value>
+      <webElementGuid>79b99a4c-3675-4fdb-8a4a-26d91e2a397e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Requester: jsolis | Nombre: Jira-AlburezLogo+titulo.PNG | Descripción: </value>
+      <webElementGuid>fb14d83d-0b70-4091-8592-07c32529ec7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;general&quot;]/div[@class=&quot;page-body cyan&quot;]/div[@class=&quot;container con-select blue&quot;]/div[@class=&quot;contents&quot;]/div[@class=&quot;ant-list ant-list-split ant-list-bordered approved-list-header&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/ul[@class=&quot;ant-list-items&quot;]/li[@class=&quot;ant-list-item ant-list-item-no-flex list&quot;]</value>
+      <webElementGuid>91bb756b-6f85-4910-93e2-1dc04b4a800c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/ul/li[11]</value>
+      <webElementGuid>14784794-09d7-4cbf-a427-a0e7c9504056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]</value>
+      <webElementGuid>8fd5a8a0-371d-4e65-92de-3857f0fc4d6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Requester: jsolis | Nombre: Jira-AlburezLogo+titulo.PNG | Descripción: ' or . = 'Requester: jsolis | Nombre: Jira-AlburezLogo+titulo.PNG | Descripción: ')]</value>
+      <webElementGuid>b8126bcc-5d60-4379-98e0-3e8e29565fde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

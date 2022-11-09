@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Historiales</name>
+   <tag></tag>
+   <elementGuidId>7931ce5c-45fb-4de6-a8fa-a06860d52487</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[5]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ant-btn.ant-btn-primary.ant-btn-lg.button-history</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2e7169e7-e9a7-458b-96e6-9086f767edd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/historiales</value>
+      <webElementGuid>686db963-c2a7-4bd9-9d1b-fde74825c304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-primary ant-btn-lg button-history</value>
+      <webElementGuid>2b666c2c-dd28-40fc-9ade-5d998235aa47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Historiales</value>
+      <webElementGuid>e9ce1f8e-b4b4-4424-bb0f-1be0a28bbcc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;general&quot;]/div[@class=&quot;page-body cyan-general&quot;]/div[@class=&quot;container con-download cyan&quot;]/div[@class=&quot;contents&quot;]/a[@class=&quot;ant-btn ant-btn-primary ant-btn-lg button-history&quot;]</value>
+      <webElementGuid>c868f364-4fbd-4ee0-ad8a-60c81add37fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[5]/div/a</value>
+      <webElementGuid>49a1f4f5-2679-4ada-a7fc-532d541f0db6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Historial'])[1]/following::a[1]</value>
+      <webElementGuid>b11a4b7a-c73f-43ab-8ee5-ab9763b9cc55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Denegar'])[1]/following::a[1]</value>
+      <webElementGuid>cd8cc509-a26d-4370-992f-490c9dc3c677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuarios'])[1]/preceding::a[1]</value>
+      <webElementGuid>b7608cb5-2ecd-4947-a948-54db9ba28282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/historiales')]</value>
+      <webElementGuid>1751df80-31a3-4d1f-ac90-16a9269ced30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a</value>
+      <webElementGuid>f2ac2b1d-40f2-4d9c-a13c-c0c0d770bc41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/historiales' and (text() = 'Historiales' or . = 'Historiales')]</value>
+      <webElementGuid>9ce4ce9b-1e24-457d-b4f0-1f37ce5a0f7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
